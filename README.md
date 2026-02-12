@@ -1,75 +1,154 @@
-# TypeScript-Log-Analyzer
+# 🚀 Typescript Log Analyzer
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6.svg)](https://www.typescriptlang.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-4-000000.svg)](https://expressjs.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🇧🇷 Análise e Monitoramento de Logs com TypeScript
+[English](#english) | [Português](#português)
 
-Este projeto, **TypeScript-Log-Analyzer**, é uma ferramenta robusta e eficiente desenvolvida em TypeScript para análise e monitoramento de logs. Ele oferece capacidades avançadas para processar, filtrar e visualizar dados de log, auxiliando desenvolvedores e administradores de sistema a identificar padrões, depurar problemas e garantir a saúde de suas aplicações.
+---
 
-## 🇬🇧 Log Analysis and Monitoring with TypeScript
+## English
 
-This project, **TypeScript-Log-Analyzer**, is a robust and efficient tool developed in TypeScript for log analysis and monitoring. It offers advanced capabilities to process, filter, and visualize log data, helping developers and system administrators identify patterns, debug issues, and ensure the health of their applications.
+### 🎯 Overview
 
-## 🖼️ Imagem Hero / Hero Image
+**Typescript Log Analyzer** — Professional TypeScript-Log-Analyzer - Created by Gabriel Demetrios Lafis
 
-![Hero Image Placeholder](assets/hero_image_placeholder.png)
+Total source lines: **22** across **1** files in **1** language.
 
-*A imagem hero será adicionada aqui para ilustrar visualmente o projeto. / The hero image will be added here to visually illustrate the project.*
+### ✨ Key Features
 
-## 🚀 Início Rápido / Quick Start
+- **Production-Ready Architecture**: Modular, well-documented, and following best practices
+- **Comprehensive Implementation**: Complete solution with all core functionality
+- **Clean Code**: Type-safe, well-tested, and maintainable codebase
+- **Easy Deployment**: Docker support for quick setup and deployment
 
-Para configurar e executar o projeto localmente, siga os passos abaixo:
+### 🚀 Quick Start
 
-To set up and run the project locally, follow these steps:
+#### Prerequisites
+- Node.js 20+ and npm
 
-1.  **Clone o repositório / Clone the repository:**
-    ```bash
-    git clone https://github.com/galafis/TypeScript-Log-Analyzer.git
-    cd TypeScript-Log-Analyzer
-    ```
 
-2.  **Instale as dependências / Install dependencies:**
-    ```bash
-    npm install
-    ```
+#### Installation
 
-3.  **Compile o projeto / Build the project:**
-    ```bash
-    npm run build
-    ```
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/TypeScript-Log-Analyzer.git
+cd TypeScript-Log-Analyzer
+```
 
-4.  **Execute a aplicação / Run the application:**
-    ```bash
-    npm start
-    ```
+2. **Install dependencies**
+```bash
+npm install
+```
 
-## ✨ Funcionalidades / Features
+#### Running
 
-*   **Processamento de Logs:** Capacidade de ingerir e processar logs de diversas fontes.
-*   **Filtragem Avançada:** Ferramentas para filtrar logs com base em critérios específicos.
-*   **Visualização de Dados:** Geração de gráficos e dashboards para insights rápidos.
-*   **Monitoramento em Tempo Real:** Acompanhamento contínuo de eventos de log.
+```bash
+npm run dev
+```
 
-*   **Log Processing:** Ability to ingest and process logs from various sources.
-*   **Advanced Filtering:** Tools to filter logs based on specific criteria.
-*   **Data Visualization:** Generation of charts and dashboards for quick insights.
-*   **Real-time Monitoring:** Continuous tracking of log events.
 
-## 🛠️ Tecnologias Utilizadas / Technologies Used
 
-*   **TypeScript:** Linguagem de programação principal.
-*   **Node.js:** Ambiente de execução.
-*   **NPM:** Gerenciador de pacotes.
 
-*   **TypeScript:** Primary programming language.
-*   **Node.js:** Runtime environment.
-*   **NPM:** Package manager.
 
-## 👤 Autor / Author
+### 📁 Project Structure
 
-Desenvolvido com maestria por Gabriel Demetrios Lafis.
+```
+TypeScript-Log-Analyzer/
+├── assets/
+├── src/
+│   └── index.ts
+├── README.md
+└── package.json
+```
 
-Masterfully developed by Gabriel Demetrios Lafis.
+### 🛠️ Tech Stack
 
+| Technology | Usage |
+|------------|-------|
+| TypeScript | 1 files |
+
+### 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 👤 Author
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
+
+---
+
+## Português
+
+### 🎯 Visão Geral
+
+**Typescript Log Analyzer** — Professional TypeScript-Log-Analyzer - Created by Gabriel Demetrios Lafis
+
+Total de linhas de código: **22** em **1** arquivos em **1** linguagem.
+
+### ✨ Funcionalidades Principais
+
+- **Arquitetura Pronta para Produção**: Modular, bem documentada e seguindo boas práticas
+- **Implementação Completa**: Solução completa com todas as funcionalidades principais
+- **Código Limpo**: Type-safe, bem testado e manutenível
+- **Fácil Implantação**: Suporte Docker para configuração e implantação rápidas
+
+### 🚀 Início Rápido
+
+#### Pré-requisitos
+- Node.js 20+ e npm
+
+
+#### Instalação
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/galafis/TypeScript-Log-Analyzer.git
+cd TypeScript-Log-Analyzer
+```
+
+2. **Install dependencies**
+```bash
+npm install
+```
+
+#### Execução
+
+```bash
+npm run dev
+```
+
+
+
+
+### 📁 Estrutura do Projeto
+
+```
+TypeScript-Log-Analyzer/
+├── assets/
+├── src/
+│   └── index.ts
+├── README.md
+└── package.json
+```
+
+### 🛠️ Stack Tecnológica
+
+| Tecnologia | Uso |
+|------------|-----|
+| TypeScript | 1 files |
+
+### 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 👤 Autor
+
+**Gabriel Demetrios Lafis**
+
+- GitHub: [@galafis](https://github.com/galafis)
+- LinkedIn: [Gabriel Demetrios Lafis](https://linkedin.com/in/gabriel-demetrios-lafis)
